@@ -1,4 +1,4 @@
-# Mortalidade e COVID-19 (Parte do Bootcamp de Ciência de Dados Alura)
+# Mortalidade e População (Parte do Bootcamp de Ciência de Dados Alura)
 
 Boas!!! Tudo bem? Espero que sim!
 
